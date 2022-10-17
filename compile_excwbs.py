@@ -79,8 +79,8 @@ def create_datadict_wb(search_folder_path, save_path, include_datadict=True):
     return wb
 
 
-search_fpath = f'C:\\Users\\kyled\\OneDrive\\Desktop\\pyproj_test'
-save_path = f'C:\\Users\\kyled\\pyproj_test\\exc_data_dict.xlsx'
+search_fpath = f''
+save_path = f''
 
 wb = create_datadict_wb(search_fpath, save_path)
 
